@@ -29,8 +29,7 @@
                 android:layout_gravity="left"
                 android:layout_margin="10dp"
                 android:src="@drawable/logo2"
-                android:tint="@color/black"
-                />
+                android:tint="@color/black" />
 
             <TextView
                 android:layout_width="wrap_content"
