@@ -45,6 +45,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:id="@+id/idSp"
                 android:layout_marginLeft="40dp"
                 android:layout_marginTop="20dp"
                 android:text="25° ⮕"
@@ -66,7 +67,7 @@
                 android:layout_marginLeft="250dp"
                 android:layout_marginTop="-120dp"
                 android:src="@drawable/cloud"
-                android:tint="@color/white" />
+                app:tint="@color/white" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -107,6 +108,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:id="@+id/rio2"
                 android:layout_gravity="center_vertical"
                 android:layout_marginLeft="40dp"
                 android:layout_marginTop="-37dp"
@@ -138,7 +140,7 @@
                 android:layout_marginLeft="250dp"
                 android:layout_marginTop="-120dp"
                 android:src="@drawable/cloud"
-                android:tint="@color/white" />
+                app:tint="@color/white" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -178,6 +180,7 @@
 
             <TextView
                 android:layout_width="wrap_content"
+                android:id="@+id/idsalv"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginLeft="40dp"
@@ -210,7 +213,7 @@
                 android:layout_marginLeft="250dp"
                 android:layout_marginTop="-120dp"
                 android:src="@drawable/cloud"
-                android:tint="@color/white" />
+                app:tint="@color/white" />
 
             <TextView
                 android:layout_width="wrap_content"
