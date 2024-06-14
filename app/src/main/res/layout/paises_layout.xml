@@ -29,7 +29,7 @@
                 android:layout_gravity="left"
                 android:layout_margin="10dp"
                 android:src="@drawable/logo2"
-                android:tint="@color/black" />
+                 />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -50,7 +50,7 @@
                 android:layout_marginBottom="5sp"
                 android:text="Paris"
                 android:textColor="@color/white"
-                android:textSize="20sp"
+                android:textSize="20sp"/>
 
 
         </LinearLayout>
